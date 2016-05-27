@@ -1,5 +1,5 @@
 {
-  "name": "io-digital/laravel-sendgrid-driver",
+  "name": "mabon/laravel-sendgrid-driver",
   "type": "library",
   "description": "This liblary can add sendgrid driver into the laravel's mail configure.",
   "keywords": [
@@ -8,7 +8,7 @@
     "mail",
     "laravel"
   ],
-  "homepage": "https://bitbucket.org/io-digital/laravel-sendgrid-driver.git",
+  "homepage": "https://github.com/mabon/laravel-sendgrid-driver.git",
   "license": "MIT",
   "authors": [
     {
